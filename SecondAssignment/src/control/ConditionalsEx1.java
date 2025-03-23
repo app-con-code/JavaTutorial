@@ -10,12 +10,6 @@ package control;
 public class ConditionalsEx1 {
     public static void main(String[] args) {
         boolean money = true;
-        if (money) {
-
-        }
-
-        else{
-
-        }
+        // 다음 라인에 코드를 작성 해 주세요.
     }
 }

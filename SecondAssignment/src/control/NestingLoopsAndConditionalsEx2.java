@@ -11,7 +11,7 @@ package control;
 
 public class NestingLoopsAndConditionalsEx2 {
     public static void main(String[] args) {
-        int[] scores = {66,54,89,92,98,100,33,45,97,99,67,87};
+        int[] scores = {66, 54, 89, 92, 98, 100, 33, 45, 97, 99, 67, 87};
         // 다음 라인에 코드를 작성 해 주세요.
     }
 }

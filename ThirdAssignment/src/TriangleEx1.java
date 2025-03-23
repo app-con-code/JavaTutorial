@@ -16,5 +16,6 @@
 public class TriangleEx1 {
     public static void main(String[] args) {
         // 다음 라인에 코드를 작성 해 주세요.
+
     }
 }

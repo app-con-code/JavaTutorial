@@ -14,6 +14,5 @@ public class StringTest2 {
 
         // 문자열 gsmStr과 문자열 hsStr를 연결하여 gsmStr에 대입
         // 다음 라인에 코드를 작성 해 주세요.
-
     }
 }

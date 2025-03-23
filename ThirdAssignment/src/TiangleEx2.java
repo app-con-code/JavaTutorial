@@ -4,8 +4,6 @@
     (입력창에 들어가는 숫자의 범위는 1부터 100까지 입니다.)
  */
 
-import java.io.IOException;
-
 //출력 결과(1)
 //숫자를 입력하세요 3
 //1
@@ -40,19 +38,16 @@ import java.io.IOException;
 //***
 //****
 //*****
+import java.util.Scanner;
+
 public class TiangleEx2 {
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
         System.out.println("숫자를 입력하세요 ");
 
-        int Number;
-        try {
-            Number = System.in.read();
-            //System.out.println(Number);
+        int Number = scanner.nextInt();
+        // 다음 라인에 코드를 작성 해 주세요.
 
-            // 다음 라인에 코드를 작성 해 주세요.
-
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        scanner.close();
     }
 }
