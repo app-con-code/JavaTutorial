@@ -18,7 +18,8 @@ package control;
 public class ForLoop {
     public static void main(String[] args) {
         int[] num = {8,9,4,5,6,7,1,3};
-        int[] result = {};
+        int[] result = new int[num.length]; // Initialize result array with the same length as num array
+
         // 다음 라인에 코드를 작성 해 주세요.
     }
 }
