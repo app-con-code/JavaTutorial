@@ -11,7 +11,7 @@
 // Bronze: 3
 public class MedalBag {
     public static void main(String[] args) {
-        String[] medal_bag = {"Gold", "Silver", "Gold", "Bronze", "Gold", "Silver", "Bronze", "Gold", "Silver", "Gold", "Silver", "Bronze", "Gold", "Silver", "Bronze"};
+        String[] medal_bag = {"Bronze", "Gold", "Gold", "Gold", "Silver", "Gold", "Gold", "Gold", "Silver", "Silver", "Silver", "Bronze", "Bronze"};
         count_individual(medal_bag);
         make_array(medal_bag);
     }
