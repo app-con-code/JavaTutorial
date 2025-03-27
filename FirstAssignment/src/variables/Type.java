@@ -9,9 +9,10 @@ package variables;
 public class Type {
     public static void main(String[] args) {
         var a = "str";
-        var b = 123;
-        var c = true;
+        var b = Integer.valueOf(123);
+        var c = Boolean.valueOf(true);
 
         // 다음 라인에 코드를 작성 해 주세요.
+
     }
 }
